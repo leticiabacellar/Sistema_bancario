@@ -1,7 +1,7 @@
 # Sistema_bancario
 Esse projeto foi desenvolvido por um desafio do bootcamp da DIO.
 
-Descrição do Projeto: Sistema Bancário Simples em Python
+❤️💻Descrição do Projeto: Sistema Bancário Simples em Python💻❤️
 
 O projeto consiste em desenvolver um sistema bancário simples em Python que permite realizar operações básicas como depósito, saque e visualização de extrato. O sistema é projetado para atender a um único usuário e é executado no console.
 
